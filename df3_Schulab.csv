@@ -1,0 +1,79 @@
+,Schulart,Schulabschluss,männlich,weiblich,insgesamt,männlich percentage,weiblich percentage
+0,Hauptschulen,Ohne Hauptschulabschluss,5592.0,3162.0,8755.5,63.868425561075895,36.11444235052253
+1,Hauptschulen,Hauptschulabschluss,30181.5,20196.0,50377.5,59.91067440821796,40.08932559178204
+2,Hauptschulen,Mittlerer Schulabschluss,16008.0,13836.0,29844.0,53.638922396461595,46.3610776035384
+3,Hauptschulen,Fachhochschulreife,,,,,
+4,Hauptschulen,Allgemeine Hochschulreife,,,,,
+5,Hauptschulen,Insgesamt,51781.5,37194.0,88977.0,58.19650021915776,41.80181395192016
+6,Schularten mit mehreren Bildungsgängen,Ohne Hauptschulabschluss,4684.5,2545.5,7228.5,64.80597634363976,35.21477484955385
+7,Schularten mit mehreren Bildungsgängen,Hauptschulabschluss,13591.5,8433.0,22021.5,61.71922893535863,38.29439411484231
+8,Schularten mit mehreren Bildungsgängen,Mittlerer Schulabschluss,33499.5,30961.5,64461.0,51.96863219621166,48.03136780378834
+9,Schularten mit mehreren Bildungsgängen,Fachhochschulreife,,,,,
+10,Schularten mit mehreren Bildungsgängen,Allgemeine Hochschulreife,,,,,
+11,Schularten mit mehreren Bildungsgängen,Insgesamt,51774.0,41940.0,93714.0,55.24681477687432,44.75318522312568
+12,Realschulen,Ohne Hauptschulabschluss,1702.5,943.5,2646.0,64.34240362811792,35.657596371882086
+13,Realschulen,Hauptschulabschluss,4165.5,2487.0,6652.5,62.61555806087937,37.384441939120634
+14,Realschulen,Mittlerer Schulabschluss,69603.0,69282.0,138888.0,50.11448073267669,49.88335925349922
+15,Realschulen,Fachhochschulreife,,,,,
+16,Realschulen,Allgemeine Hochschulreife,,,,,
+17,Realschulen,Insgesamt,75471.0,72715.5,148186.5,50.92974056341165,49.07025943658835
+18,Gymnasien G9,Ohne Hauptschulabschluss,79.5,61.5,141.0,56.38297872340425,43.61702127659575
+19,Gymnasien G9,Hauptschulabschluss,276.0,267.0,543.0,50.82872928176796,49.171270718232044
+20,Gymnasien G9,Mittlerer Schulabschluss,4731.0,4917.0,9646.5,49.043694604260615,50.97185507697092
+21,Gymnasien G9,Fachhochschulreife,,,,,
+22,Gymnasien G9,Allgemeine Hochschulreife,13866.0,17775.0,31641.0,43.822888025030814,56.177111974969186
+23,Gymnasien G9,Insgesamt,18951.0,23022.0,41973.0,45.15045386319777,54.84954613680223
+24,Gymnasien G8,Ohne Hauptschulabschluss,886.5,631.5,1516.5,58.45697329376854,41.64193867457963
+25,Gymnasien G8,Hauptschulabschluss,2382.0,1992.0,4372.5,54.476843910806174,45.557461406518016
+26,Gymnasien G8,Mittlerer Schulabschluss,13797.0,12166.5,25963.5,53.1399849789127,46.8600150210873
+27,Gymnasien G8,Fachhochschulreife,,,,,
+28,Gymnasien G8,Allgemeine Hochschulreife,94969.5,114133.5,209101.5,45.41789513705067,54.58282221791809
+29,Gymnasien G8,Insgesamt,112032.0,128923.5,240954.0,46.49518165292961,53.505440872531686
+30,Integrierte Gesamtschulen,Ohne Hauptschulabschluss,5658.0,3595.5,9255.0,61.13452188006483,38.849270664505674
+31,Integrierte Gesamtschulen,Hauptschulabschluss,20637.0,14239.5,34875.0,59.1741935483871,40.83010752688172
+32,Integrierte Gesamtschulen,Mittlerer Schulabschluss,31840.5,28936.5,60777.0,52.389061651611634,47.61093834838837
+33,Integrierte Gesamtschulen,Fachhochschulreife,,,,,
+34,Integrierte Gesamtschulen,Allgemeine Hochschulreife,14040.0,17437.5,31477.5,44.603288062902074,55.39671193709793
+35,Integrierte Gesamtschulen,Insgesamt,72177.0,64209.0,136386.0,52.92112093616647,47.078879063833526
+36,Freie Waldorfschulen,Ohne Hauptschulabschluss,156.0,147.0,300.0,52.0,49.0
+37,Freie Waldorfschulen,Hauptschulabschluss,262.5,178.5,441.0,59.523809523809526,40.476190476190474
+38,Freie Waldorfschulen,Mittlerer Schulabschluss,1129.5,1065.0,2194.5,51.469583048530424,48.53041695146958
+39,Freie Waldorfschulen,Fachhochschulreife,168.0,201.0,369.0,45.52845528455284,54.47154471544715
+40,Freie Waldorfschulen,Allgemeine Hochschulreife,1438.5,1810.5,3249.0,44.27516158818098,55.72483841181902
+41,Freie Waldorfschulen,Insgesamt,3154.5,3399.0,6552.0,48.145604395604394,51.87728937728938
+42,Förderschulen,Ohne Hauptschulabschluss,14619.0,8751.0,23370.0,62.55455712451862,37.44544287548139
+43,Förderschulen,Hauptschulabschluss,5134.5,2506.5,7642.5,67.18351324828264,32.79685966633955
+44,Förderschulen,Mittlerer Schulabschluss,864.0,459.0,1324.5,65.2321630804077,34.65458663646659
+45,Förderschulen,Fachhochschulreife,,,,,
+46,Förderschulen,Allgemeine Hochschulreife,51.0,28.5,78.0,65.38461538461539,36.53846153846153
+47,Förderschulen,Insgesamt,20668.5,11746.5,32415.0,63.76214715409533,36.23785284590467
+48,Abendhauptschulen,Ohne Hauptschulabschluss,,,,,
+49,Abendhauptschulen,Hauptschulabschluss,234.0,142.5,376.5,62.15139442231076,37.84860557768924
+50,Abendhauptschulen,Mittlerer Schulabschluss,,,,,
+51,Abendhauptschulen,Fachhochschulreife,,,,,
+52,Abendhauptschulen,Allgemeine Hochschulreife,,,,,
+53,Abendhauptschulen,Insgesamt,234.0,142.5,376.5,62.15139442231076,37.84860557768924
+54,Abendrealschulen,Ohne Hauptschulabschluss,,,,,
+55,Abendrealschulen,Hauptschulabschluss,736.5,505.5,1242.0,59.29951690821256,40.70048309178744
+56,Abendrealschulen,Mittlerer Schulabschluss,1680.0,1333.5,3015.0,55.72139303482587,44.22885572139303
+57,Abendrealschulen,Fachhochschulreife,,,,,
+58,Abendrealschulen,Allgemeine Hochschulreife,,,,,
+59,Abendrealschulen,Insgesamt,2416.5,1840.5,4257.0,56.76532769556025,43.23467230443975
+60,Abendgymnasien,Ohne Hauptschulabschluss,,,,,
+61,Abendgymnasien,Hauptschulabschluss,7.5,9.0,16.5,45.45454545454545,54.54545454545454
+62,Abendgymnasien,Mittlerer Schulabschluss,414.0,346.5,760.5,54.437869822485204,45.562130177514796
+63,Abendgymnasien,Fachhochschulreife,111.0,84.0,195.0,56.92307692307692,43.07692307692308
+64,Abendgymnasien,Allgemeine Hochschulreife,781.5,868.5,1650.0,47.36363636363636,52.63636363636364
+65,Abendgymnasien,Insgesamt,1314.0,1311.0,2625.0,50.05714285714286,49.94285714285714
+66,Kollegs,Ohne Hauptschulabschluss,,,,,
+67,Kollegs,Hauptschulabschluss,7.5,9.0,15.0,50.0,60.0
+68,Kollegs,Mittlerer Schulabschluss,502.5,378.0,880.5,57.06984667802385,42.93015332197615
+69,Kollegs,Fachhochschulreife,52.5,31.5,84.0,62.5,37.5
+70,Kollegs,Allgemeine Hochschulreife,1167.0,1029.0,2196.0,53.14207650273224,46.85792349726776
+71,Kollegs,Insgesamt,1729.5,1446.0,3174.0,54.48960302457467,45.55765595463138
+72,Externe,Ohne Hauptschulabschluss,,,,,
+73,Externe,Hauptschulabschluss,2760.0,1633.5,4393.5,62.82007511095937,37.17992488904063
+74,Externe,Mittlerer Schulabschluss,1135.5,700.5,1836.0,61.84640522875817,38.15359477124183
+75,Externe,Fachhochschulreife,93.0,132.0,114.0,81.57894736842105,115.78947368421053
+76,Externe,Allgemeine Hochschulreife,261.0,273.0,534.0,48.87640449438202,51.12359550561798
+77,Externe,Insgesamt,4204.5,2674.5,6879.0,61.120802442215435,38.879197557784565
